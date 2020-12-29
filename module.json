@@ -58,6 +58,6 @@
         }
     ],
     "url": "https://github.com/LGMart/compendium-share",
-    "manifest": "https://raw.githubusercontent.com/LGMart/compendium-share/master/module.json",
+    "manifest": "https://raw.githubusercontent.com/LGMart/compendium-share/main/module.json",
     "download": ""
 }
