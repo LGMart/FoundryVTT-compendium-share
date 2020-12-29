@@ -1,0 +1,63 @@
+{
+    "name": "compendium-share",
+    "title": "Compendium Share",
+    "description": "A simple way to share your compendiums.",
+    "author": "LGMart",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.7.5",
+    "compatibleCoreVersion": "0.7.8",
+    "styles": [ "Share.css" ],
+    "packs": [
+        {
+            "name": "journal-share",
+            "label": "Journal Share",
+            "system": "dnd5e",
+            "module": "compendium-shares",
+            "path": "./packs/journal-share.db",
+            "entity": "JournalEntry"
+        },
+        {
+            "name": "macros-shares",
+            "label": "Macro Share",
+            "system": "dnd5e",
+            "module": "compendium-shares",
+            "path": "./packs/macros-share.db",
+            "entity": "Macro"
+        },
+        {
+            "name": "players-shares",
+            "label": "Players Share",
+            "system": "dnd5e",
+            "module": "compendium-shares",
+            "path": "./packs/players-share.db",
+            "entity": "Actor"
+        },
+        {
+            "name": "items-shares",
+            "label": "Items Share",
+            "system": "dnd5e",
+            "module": "compendium-shares",
+            "path": "./packs/items-share.db",
+            "entity": "Item"
+        },
+        {
+            "name": "rolltable-shares",
+            "label": "Rolltable Share",
+            "system": "dnd5e",
+            "module": "compendium-shares",
+            "path": "./packs/rolltable-share.db",
+            "entity": "RollTable"
+        },
+        {
+            "name": "scenes-shares",
+            "label": "Scenes Share",
+            "system": "dnd5e",
+            "module": "compendium-shares",
+            "path": "./packs/scenes-share.db",
+            "entity": "Scene"
+        }
+    ],
+    "url": "",
+    "manifest": "",
+    "download": ""
+}
