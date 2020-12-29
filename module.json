@@ -57,7 +57,7 @@
             "entity": "Scene"
         }
     ],
-    "url": "",
-    "manifest": "",
+    "url": "https://github.com/LGMart/compendium-share",
+    "manifest": "https://github.com/LGMart/compendium-share/blob/main/module.json",
     "download": ""
 }
