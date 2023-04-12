@@ -56,6 +56,6 @@
         }
     ],
     "url": "https://github.com/LGMart/FoundryVTT-compendium-share",
-    "manifest": "https://github.com/LGMart/FoundryVTT-compendium-share/blob/main/module.json",
+    "manifest": "https://raw.githubusercontent.com/LGMart/FoundryVTT-compendium-share/main/module.json",
 	"download": "https://github.com/LGMart/FoundryVTT-compendium-share/raw/main/compendium-share.zip",
 }
