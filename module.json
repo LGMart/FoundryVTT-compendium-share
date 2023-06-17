@@ -3,7 +3,7 @@
     "title": "Compendium Share",
     "description": "A simple way to share your compendiums.",
     "author": "LGMart",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "minimumCoreVersion" : "9",
     "compatibleCoreVersion" : 10,
     "compatibility": {
