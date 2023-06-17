@@ -3,55 +3,70 @@
     "title": "Compendium Share",
     "description": "A simple way to share your compendiums.",
     "author": "LGMart",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "styles": [ "Share.css" ],
     "packs": [
         {
-            "name": "journal-share",
             "label": "Journal Share",
+            "name": "journal-share",
+			"type": "JournalEntry",
             "system": "dnd5e",
-            "module": "compendium-share",
             "path": "./packs/journal-share.db",
+            "module": "compendium-share",
             "entity": "JournalEntry"
         },
         {
             "name": "macros-shares",
             "label": "Macro Share",
+			"type": "Macro",
             "system": "dnd5e",
-            "module": "compendium-share",
             "path": "./packs/macros-share.db",
+            "module": "compendium-share",
             "entity": "Macro"
         },
         {
             "name": "players-shares",
             "label": "Players Share",
+			"type": "Actor",
             "system": "dnd5e",
-            "module": "compendium-share",
             "path": "./packs/players-share.db",
+            "module": "compendium-share",
             "entity": "Actor"
         },
         {
             "name": "items-shares",
             "label": "Items Share",
+			"type": "Item",
             "system": "dnd5e",
-            "module": "compendium-share",
             "path": "./packs/items-share.db",
+            "module": "compendium-share",
             "entity": "Item"
         },
         {
             "name": "rolltable-shares",
             "label": "Rolltable Share",
+			"type": "RollTable",
             "system": "dnd5e",
-            "module": "compendium-share",
             "path": "./packs/rolltable-share.db",
+            "module": "compendium-share",
             "entity": "RollTable"
+        },
+        {
+            "name": "Playlist",
+            "label": "Playlist Share",
+			"type": "Playlist",
+            "system": "dnd5e",
+            "path": "./packs/playlist-share.db",
+            "module": "compendium-share",
+            "entity": "Playlist"
         },
         {
             "name": "scenes-shares",
             "label": "Scenes Share",
+			"type": "Scene",
             "system": "dnd5e",
-            "module": "compendium-share",
             "path": "./packs/scenes-share.db",
+            "module": "compendium-share",
             "entity": "Scene"
         }
     ],
