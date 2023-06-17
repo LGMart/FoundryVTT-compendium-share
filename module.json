@@ -11,63 +11,49 @@
             "name": "journal-share",
 			"type": "JournalEntry",
             "system": "dnd5e",
-            "path": "./packs/journal-share.db",
-            "module": "compendium-share",
-            "entity": "JournalEntry"
+            "path": "./packs/journal-share.db"
         },
         {
             "name": "macros-shares",
             "label": "Macro Share",
 			"type": "Macro",
             "system": "dnd5e",
-            "path": "./packs/macros-share.db",
-            "module": "compendium-share",
-            "entity": "Macro"
+            "path": "./packs/macros-share.db"
         },
         {
             "name": "players-shares",
             "label": "Players Share",
 			"type": "Actor",
             "system": "dnd5e",
-            "path": "./packs/players-share.db",
-            "module": "compendium-share",
-            "entity": "Actor"
+            "path": "./packs/players-share.db"
         },
         {
             "name": "items-shares",
             "label": "Items Share",
 			"type": "Item",
             "system": "dnd5e",
-            "path": "./packs/items-share.db",
-            "module": "compendium-share",
-            "entity": "Item"
+            "path": "./packs/items-share.db"
         },
         {
             "name": "rolltable-shares",
             "label": "Rolltable Share",
 			"type": "RollTable",
             "system": "dnd5e",
-            "path": "./packs/rolltable-share.db",
-            "module": "compendium-share",
-            "entity": "RollTable"
+            "path": "./packs/rolltable-share.db"
         },
         {
             "name": "Playlist",
             "label": "Playlist Share",
 			"type": "Playlist",
             "system": "dnd5e",
-            "path": "./packs/playlist-share.db",
-            "module": "compendium-share",
-            "entity": "Playlist"
+            "path": "./packs/playlist-share.db"
         },
         {
             "name": "scenes-shares",
             "label": "Scenes Share",
 			"type": "Scene",
             "system": "dnd5e",
-            "path": "./packs/scenes-share.db",
-            "module": "compendium-share",
-            "entity": "Scene"
+            "path": "./packs/scenes-share.db"
         }
     ],
     "url": "https://github.com/LGMart/FoundryVTT-compendium-share",
