@@ -4,7 +4,6 @@
     "description": "A simple way to share your compendiums.",
     "author": "LGMart",
     "version": "1.1.0",
-    "styles": [ "Share.css" ],
     "packs": [
         {
             "label": "Journal Share",
